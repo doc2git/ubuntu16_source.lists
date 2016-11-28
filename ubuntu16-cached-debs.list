@@ -1,0 +1,2 @@
+deb http://192.168.0.6/ubuntu16-cached-debs/ xenial restricted
+deb-src http://192.168.0.6/ubuntu16-cached-debs/ xenial restricted
